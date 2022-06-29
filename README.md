@@ -1,1 +1,1 @@
-Small tasks like "Make universal input, button, etc".
+Small React tasks 
